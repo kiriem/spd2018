@@ -1,3 +1,79 @@
 body { 
     font-family: "M PLUS 1p";
 }
+
+.text-red{
+    color: #EE7785;
+}
+
+.text-green{
+    color: #67D5B5;
+}
+
+.text-blue{
+    color: #84B1ED;
+}
+
+.text-purple{
+    color: #C89EC4;
+}
+
+.bg-red{
+    background-color: #EE7785;
+}
+
+.bg-green{
+    background-color: #67D5B5;
+}
+
+.bg-blue{
+    background-color: #84B1ED;
+}
+
+.bg-purple{
+    background-color: #C89EC4;
+}
+
+.bg-main-color{
+    background-color: #4E799D;
+}
+
+.top-logo{
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+}
+
+.title{
+    border-bottom: double 5px black;
+    font-weight: bold;
+}
+
+.sub-title{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.btn-center{
+    
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.koil-logo{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.dojo-logo{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
